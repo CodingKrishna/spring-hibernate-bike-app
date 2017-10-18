@@ -1,0 +1,110 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	width:100px;
+	height:100px;
+    background-image: url("../images/bike1.jpg");
+    background-repeat:no-repeat;
+	background-size:100%,100%;
+	opacity:2;
+  
+}
+
+.bikeHomeImage
+{
+	width:600px;
+	height:100px;
+    background-image: url("../images/bikeHome.jpg");
+    background-repeat:no-repeat;
+	background-size:100%,100%;
+	opacity:2;
+	margin-top:10px;
+	margin-left: 400px
+}
+
+.bg2
+{
+	width:600px;
+	height:100px;
+    background-image: url("../images/bg2.jpg");
+    background-repeat:no-repeat;
+	background-size:100%,100%;
+	opacity:2;
+	margin-top:10px;
+	margin-left: 400px
+}
+
+.bg3
+{
+	width:1300px;
+	height:100px;
+    background-image: url("../images/bg3.jpg");
+    background-repeat:no-repeat;
+	background-size:100%,100%;
+	opacity:2;
+	margin-top:10px;
+	margin-left: 40px
+}
+
+.bg4
+{
+	width:600px;
+	height:100px;
+    background-image: url("../images/bg4.jpg");
+    background-repeat:no-repeat;
+	background-size:100%,100%;
+	opacity:2;
+	margin-top:10px;
+	margin-left: 400px
+}
+
+.container
+{
+	margin-top:200px;
+	height:200px;
+	width:410px;
+	margin-left:500px;
+	
+}
+.container #user
+{
+	height:40px;
+	width:300px;
+	font-size:15px;
+	background-color: "lightblue"
+}
+.container #passwd
+{
+    height:40px;
+	width:300px;
+    font-size:15px;	
+}
+.container #login
+{
+    height:40px;
+	width:140px;
+    font-size:25px;	
+}
+
+.loginform{  
+    padding:20px;  
+    border:1px solid pink;  
+    border-radius:10px;  
+    width:350px;
+    margin-top:10px;  
+}  
+.formheading{  
+    background-color:green;  
+    color:white;  
+    padding:8px;  
+    text-align:center; 
+    font-family: serif;
+}  
+.sub{  
+background-color:red;  
+padding: 7px 40px 7px 40px;  
+color:white;  
+font-weight:bold;  
+margin-left:70px;  
+border-radius:5px;  
+}  
